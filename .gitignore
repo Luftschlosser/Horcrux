@@ -1,0 +1,59 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+RemoteSystemsTempFiles/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Eclipse External tool builders
+.externalToolBuilders/
+
+# Eclipse Locally stored "Eclipse launch configurations"
+*.launch
+
+# Eclipse CDT- autotools 
+.autotools
+
+# Eclipse Code Recommenders
+.recommenders/
+
